@@ -10,29 +10,13 @@
       "value": "0"
     },
     {
-      "name": "cpu",
-      "type": "string",
-      "value": "not clear"
+      "name": "free_memory",
+      "type": "size_t",
+      "value": "0"
     },
     {
-      "name": "cpufrequency",
-      "type": "string",
-      "value": "not clear"
-    },
-    {
-      "name": "ram",
-      "type": "string",
-      "value": "not clear"
-    },
-    {
-      "name": "gpu",
-      "type": "string",
-      "value": "not clear"
-    },
-    {
-      "name": "video_ram",
-      "type": "string",
-      "value": "not clear"
+      "name": "free_disk",
+      "type": "size_t",
+      "value": "0"
     }
-
   ]
