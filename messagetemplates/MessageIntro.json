@@ -18,5 +18,10 @@
       "name": "free_disk",
       "type": "size_t",
       "value": "0"
+    },
+    {
+      "name": "process_100m",
+      "type": "size_t",
+      "value": "0"
     }
   ]
