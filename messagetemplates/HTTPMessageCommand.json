@@ -1,0 +1,27 @@
+[
+  {
+    "name": "command",
+    "type": "size_t",
+    "value": "10000"
+  },
+  {
+    "name": "status",
+    "type": "size_t",
+    "value": "0"
+  },
+  {
+    "name": "command",
+    "type": "string",
+    "value": ""
+  },
+  {
+    "name": "uris",
+    "type": "vector<string>",
+    "value": ""
+  },
+  {
+    "name": "runAsUser",
+    "type": "string",
+    "value": "root"
+  }
+]
