@@ -13,5 +13,16 @@
       "name": "command_line",
       "type": "string",
       "value": ""
+    },
+    {
+      "name": "uri_list",
+      "type": "vector<std::string>",
+      "value": ""
+    },
+    {
+      "name": "run_as",
+      "type": "string",
+      "value": ""
     }
+
   ]
