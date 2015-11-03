@@ -10,7 +10,7 @@
     "value": "0"
   },
   {
-    "name": "command",
+    "name": "cmd",
     "type": "string",
     "value": ""
   },
