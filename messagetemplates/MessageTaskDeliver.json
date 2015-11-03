@@ -15,24 +15,13 @@
       "value": ""
     },
     {
-      "name": "cpu",
-      "type": "string",
+      "name": "uri_list",
+      "type": "vector<std::string>",
       "value": ""
     },
     {
-      "name": "ram",
-      "type": "string",
-      "value": ""
-    },
-    {
-      "name": "command_lines",
-      "type": "string",
-      "value": ""
-    },
-    {
-      "name": "uri",
+      "name": "aligner",
       "type": "string",
       "value": ""
     }
-
   ]
