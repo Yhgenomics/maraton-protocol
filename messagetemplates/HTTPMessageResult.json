@@ -1,0 +1,22 @@
+[
+  {
+    "name": "command",
+    "type": "size_t",
+    "value": "19999"
+  },
+  {
+    "name": "status",
+    "type": "size_t",
+    "value": "0"
+  },
+  {
+    "name": "result",
+    "type": "int",
+    "value": ""
+  },
+  {
+    "name": "message",
+    "type": "string",
+    "value": ""
+  } 
+]

@@ -1,0 +1,45 @@
+  [    
+    {
+      "name": "command",
+      "type": "size_t",
+      "value": "10000"
+    },
+    {
+      "name": "status",
+      "type": "size_t",
+      "value": "0"
+    },
+    {
+      "name": "id",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "name": "name",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "name": "fastq",
+      "type": "vector<string>",
+      "value": ""
+    }
+    ,
+    {
+      "name": "executor",
+      "type": "vector<string>",
+      "value": ""
+    }
+    ,
+    {
+      "name": "aligner",
+      "type": "string",
+      "value": ""
+    }
+    ,
+    {
+      "name": "args",
+      "type": "vector<string>",
+      "value": ""
+    }
+  ]
