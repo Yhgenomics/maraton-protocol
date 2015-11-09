@@ -11,7 +11,7 @@
     },
     {
       "name": "reports",
-      "type": "string",
+      "type": "size_t",
       "value": ""
     }
   ]
