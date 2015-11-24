@@ -10,12 +10,12 @@
         "value": "0"
     },
     {
-        "name": "ref_genome",
+        "name": "ref_addr",
         "type": "string",
         "value": ""
     },
     {
-        "name": "docekr_repo",
+        "name": "docekr_addr",
         "type": "string",
         "value": ""
     },
