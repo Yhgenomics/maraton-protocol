@@ -1,0 +1,32 @@
+[
+    {
+        "name": "command",
+        "type": "size_t",
+        "value": "0"
+    },
+    {
+        "name": "status",
+        "type": "size_t",
+        "value": "0"
+    },
+    {
+        "name": "ref_genome",
+        "type": "string",
+        "value": ""
+    },
+    {
+        "name": "docekr_repo",
+        "type": "string",
+        "value": ""
+    },
+    {
+        "name": "fastq_addr",
+        "type": "string",
+        "value": ""
+    },
+    {
+        "name": "merge_addr",
+        "type": "string",
+        "value": ""
+    }
+]

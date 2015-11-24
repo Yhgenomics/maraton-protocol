@@ -23,5 +23,10 @@
     "name": "runAsUser",
     "type": "string",
     "value": "root"
+  },
+  {
+    "name": "executors",
+    "type": "vector<string>",
+    "value": ""
   }
 ]

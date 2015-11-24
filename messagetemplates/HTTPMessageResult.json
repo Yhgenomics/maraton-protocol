@@ -18,5 +18,10 @@
     "name": "message",
     "type": "string",
     "value": ""
-  } 
+  },
+  {
+    "name": "object",
+    "type": "string",
+    "value": ""
+  }
 ]
