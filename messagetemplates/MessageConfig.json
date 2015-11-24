@@ -2,7 +2,7 @@
     {
         "name": "command",
         "type": "size_t",
-        "value": "0"
+        "value": "170"
     },
     {
         "name": "status",

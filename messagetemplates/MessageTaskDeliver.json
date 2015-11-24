@@ -23,5 +23,10 @@
       "name": "aligner",
       "type": "string",
       "value": ""
+    },
+    {
+      "name": "reference",
+      "type": "string",
+      "value": ""
     }
   ]
