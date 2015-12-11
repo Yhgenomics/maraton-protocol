@@ -2,7 +2,7 @@
     {
       "name": "command",
       "type": "size_t",
-      "value": "131"
+      "value": "171"
     },
     {
       "name": "status",
@@ -20,17 +20,7 @@
       "value": ""
     },
     {
-      "name": "aligner",
-      "type": "string",
-      "value": ""
-    },
-    {
-      "name": "sorter",
-      "type": "string",
-      "value": ""
-    },
-    {
-      "name": "reference",
+      "name": "merger",
       "type": "string",
       "value": ""
     }
