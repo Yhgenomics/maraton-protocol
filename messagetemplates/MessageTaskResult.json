@@ -20,6 +20,11 @@
       "value": "0"
     },
     {
+      "name": "stage",
+      "type": "size_t",
+      "value": "0"
+    },
+    {
       "name": "result",
       "type": "string",
       "value": "TaskNoError"
