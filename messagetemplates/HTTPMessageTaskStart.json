@@ -1,4 +1,4 @@
-  [    
+  [
     {
       "name": "command",
       "type": "size_t",
@@ -40,6 +40,18 @@
     {
       "name": "args",
       "type": "vector<string>",
+      "value": ""
+    }
+    ,
+    {
+      "name": "sorter",
+      "type": "string",
+      "value": ""
+    }
+    ,
+    {
+      "name": "reference",
+      "type": "string",
       "value": ""
     }
   ]
